@@ -40,6 +40,6 @@
 		"typo3/cms-tstemplate": "^9.5",
 		"typo3/cms-viewpage": "^9.5",
 		"typo3/cms-introduction": "4.0.1",
-		"dada/dada-typo3introduction-project":"dev-develop"
+		"dada/dada-typo3introduction-project":"dev-master"
 	}
 }
