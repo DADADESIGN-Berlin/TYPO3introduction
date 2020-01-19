@@ -41,6 +41,6 @@
 		"typo3/cms-viewpage": "^9.5",
 		"gridelementsteam/gridelements": "^9.3",
 		"typo3/cms-introduction": "4.0.1",
-		"dada/dada-typo3introduction-project":"dev-daster"
+		"dada/dada-typo3introduction-project":"dev-develop"
 	}
 }
