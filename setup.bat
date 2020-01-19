@@ -10,13 +10,13 @@ call composer self-update
 
 call composer install
 
-echo Copying FIRST_INSTALL to web/
+echo Copying FIRST_INSTALL to public/
 
-copy "FIRST_INSTALL" web
+copy "FIRST_INSTALL" public
 
-echo Open localhost/t3/%curDir%/web in chrome
+echo Open localhost/t3/%curDir%/public in chrome
 
-start chrome localhost/t3/%curDir%/web
+start chrome localhost/t3/%curDir%/public
 
 echo Open Visual Studio Code
 
