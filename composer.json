@@ -1,6 +1,10 @@
 {
 	"repositories": [
-		{ "type": "composer", "url": "https://composer.typo3.org/" }
+		{ "type": "composer", "url": "https://composer.typo3.org/" },
+        {
+            "type": "vcs",
+            "url": "https://github.com/DADADESIGN-Berlin/TYPO3introduction-project.git"
+        }
 	],
 	"name": "dadadesign/typo3sitepackage",
 	"description" : "Modern TYPO3 setup",
@@ -36,6 +40,7 @@
 		"typo3/cms-tstemplate": "^9.5",
 		"typo3/cms-viewpage": "^9.5",
 		"gridelementsteam/gridelements": "^9.3",
-		"typo3/cms-introduction": "4.0.1"
+		"typo3/cms-introduction": "4.0.1",
+		"dada/dada-typo3introduction-project":"dev-daster"
 	}
 }
