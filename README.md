@@ -1,7 +1,7 @@
 ## Setup ##
 1. Gitbash in your projects folder:
 ```
-https://github.com/DADADESIGN-Berlin/TYPO3introduction.git MyNewProject
+git clone https://github.com/DADADESIGN-Berlin/TYPO3introduction.git MyNewProject
 cd MyNewProject
 ```
 
